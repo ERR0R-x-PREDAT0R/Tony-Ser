@@ -23,7 +23,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ<a href="https://github.com/ERR0R-x-PREDAT0R">ᴀʟɪɴsʜᴀɴ</a>
     <br>
        | © |
         Reserved |
