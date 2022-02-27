@@ -58,7 +58,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ERR0R-x-PREDAT0R/Tony-Ser)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ERR0R-x-PREDAT0R/Tony-Ser)   
  
   </div>
  
