@@ -1,38 +1,45 @@
-## Thanks for Everything
-### We will always remember you..
+# <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Tony-Ser+Is+A+WhatsApp+Bot+By+Alinshan."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/zdcqaaG.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Tony-Ser.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Tony-Ser" src="https://img.shields.io/badge/-Tony%20Ser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://chat.whatsapp.com/Eq2IZ59kFaBEp8M8Y3Nrqd"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ERR0R-x-PREDAT0R"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALINSHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
+</p>
+  <p align="center"> 
+  <a href="https://wa.me/919383491460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-----
 
-  <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
-<a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
-<a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+----------
 
-```
+----------
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
+
+
   
-pinky - pinky Userbot is Open Source software open to development. 
+Tony Ser - Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
