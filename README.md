@@ -35,10 +35,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 
 ----------
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
-
-
-  
+```
 Tony Ser - Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
@@ -54,7 +51,6 @@ Marketing WhatsAsena for money, making it available or having any material value
 the user is responsible.
 ```
 
-
 ## Setup
 <div align="center">
 
@@ -66,12 +62,6 @@ the user is responsible.
  
   </div>
  
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
 
             
 ### NO ERROR DEPLOY
