@@ -58,7 +58,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ERR0R-x-PREDAT0R/Tony-Ser)   
  
   </div>
  
@@ -93,8 +93,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) | [ERR0R-x-PREDAT0R](https://github.com/ERR0R-x-PREDAT0R)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules | Bug Fixes, Modules
   </div>
 
 
@@ -104,9 +104,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
   
-### thanks for your help and support guys
-    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
-
 ### when forking  
 ```
 add your own heroku button
