@@ -23,7 +23,7 @@
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ<a href="https://github.com/ERR0R-x-PREDAT0R">ᴀʟɪɴsʜᴀɴ</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/ERR0R-x-PREDAT0R">ᴀʟɪɴsʜᴀɴ</a>
     <br>
        | © |
         Reserved |
