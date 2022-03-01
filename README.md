@@ -98,14 +98,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
   
-### when forking  
-```
-add your own heroku button
-  
-  example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=your repository link here)
-  
-  change it into your repo link
 ```
   
 ```
