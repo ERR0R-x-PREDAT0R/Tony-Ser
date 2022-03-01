@@ -1,12 +1,3 @@
-# <!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/J0hKr">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᴛᴏɴʏ-sᴇʀ+ɪs+ᴀ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ʙʏ+ᴀʟɪɴsʜᴀɴ."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
 
 ----------
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+TONY+SER+WA+BOT+REPO.;CREATED+BY+ALINSHAN;THIS+IS+A+BGM+STICKER+BOT;WITH+MORE+FEATURES)
