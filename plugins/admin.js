@@ -1620,7 +1620,7 @@ MyPnky.addCommand({pattern: 'rename ?(.*)', fromMe: true,desc: 'change group nam
   if (message.jid.endsWith('@g.us')) { 
   var im = await checkImAdmin(message);
     if (!im) return await message.client.sendMessage(message.jid,'i am not admin',MessageType.text);
-    if (match[1] === '') return await message.client.sendMessage(message.jid,'give a name for you group \n exampple- .rename pinky',MessageType.text);
+    if (match[1] === '') return await message.client.sendMessage(message.jid,'give a name for you group \n exampple- .rename any name',MessageType.text);
     await message.client.groupUpdateSubject(message.jid, match[1]);
     await message.client.sendMessage(message.jid,'group name changed to  ```' + match[1] + '```' ,MessageType.text);
     }
