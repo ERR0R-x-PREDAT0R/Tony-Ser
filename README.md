@@ -8,6 +8,9 @@
     </a>
 </p>
 
+----------
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+TONY+SER+WA+BOT+REPO.;CREATED+BY+ALINSHAN;THIS+IS+A+BGM+STICKER+BOT;WITH+MORE+FEATURES)
+----------
 
 
 <div align="center">
