@@ -476,7 +476,7 @@
             "NOT_FOUND": "*Media Not Found!*"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github afnanplk",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github ERR0R-x-PREDAT0R",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
